@@ -1,7 +1,7 @@
 # ESP8266
 
 Hello,
-this is my smart home "IoT devices" connected via WiFI to network. 
+this is my smart home "IoT devices" connected via WiFi to home network. 
 They collect temperature, humidity and power meter sensors info and send it via MQTT protocol to MQTT brocker for futher visualization and automation. 
 MQTT brocker is running on Home Assistant.
 Home Assistant is used as main home controller.
