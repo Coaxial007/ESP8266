@@ -12,7 +12,7 @@
 #include <DallasTemperature.h>
 
 const char* ssid =     "xxxxx";     // Set your router SSID
-const char* password = "xxxxxxc"; // Set your router password
+const char* password = "xxxxx"; // Set your router password
 
 // MQTT: ID, server IP, port, username and password
 const PROGMEM char* MQTT_CLIENT_ID = "ESP8266_alarm";
